@@ -4,5 +4,6 @@ Kheer
 pasta
 
 Chicke fry
-
+Beans
+pizza
 Thanks and regards
